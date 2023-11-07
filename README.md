@@ -1,6 +1,6 @@
 # Uebung-024  -- Zahlenstatistik
 
-### Lehrziele:
+### Lehrziele: 
 • While - Anweisung
 
 ### Vertiefung:
