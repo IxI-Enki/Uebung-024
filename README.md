@@ -35,6 +35,9 @@ Erstellen Sie aufgrund des oben angegebenen Hinweises einen Programmablaufplan u
 
 ## . . . . . . . . . .... [SPOILER] .... . . . . . . . . 
 
-## Visual Studio
+## Visual Studio:  
+![1](https://github.com/IxI-Enki/Uebung-024/assets/138018029/8fe2277d-9fe5-4f2b-b895-4ae725670726)  
+![2](https://github.com/IxI-Enki/Uebung-024/assets/138018029/337342c5-5f14-437f-958d-b5695046a181)  
+![3](https://github.com/IxI-Enki/Uebung-024/assets/138018029/7996ed4e-e4e0-484a-a690-11f0656fc299)  
 
-## Ausgabe
+## Ausgabe:  
